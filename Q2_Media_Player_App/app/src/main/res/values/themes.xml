@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.MediaPlayerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#00E5C8</item>
+        <item name="android:windowBackground">#0D0F14</item>
+    </style>
+    <style name="Theme.MediaPlayerApp" parent="Base.Theme.MediaPlayerApp"/>
+</resources>
