@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PhotoVault</string>
+    <string name="tagline">Capture &amp; Organize Your Memories</string>
+    <string name="home_card_title">What would you like to do?</string>
+    <string name="home_card_subtitle">Use the options below to capture or explore your photos.</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="browse_folder">Browse Folder</string>
+    <string name="save_location_note">Photos are saved to the folder you select with Browse Folder.</string>
+    <string name="gallery_title">Gallery</string>
+    <string name="search_hint">Search</string>
+    <string name="image_count_format">%1$d images</string>
+    <string name="image_count_single">1 image</string>
+    <string name="empty_gallery_title">No images found in this folder. Go back and take some photos or select a different folder.</string>
+    <string name="image_details_title">Image Details</string>
+    <string name="file_name_label">File name</string>
+    <string name="file_path_label">File path</string>
+    <string name="file_size_label">File size</string>
+    <string name="date_taken_label">Date taken</string>
+    <string name="camera_info_label">Camera</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="delete_image_hint">Permanently removes this file from the folder (not moved to Trash).</string>
+    <string name="delete_dialog_title">Delete permanently?</string>
+    <string name="delete_dialog_message">This removes the photo from the folder for good. It will not be moved to Trash. You cannot undo this.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="choose_folder_first">Please tap Browse Folder and choose where to save photos first.</string>
+    <string name="camera_permission_required">Camera permission is required to take photos.</string>
+    <string name="menu_more">More</string>
+    <string name="unknown">Unknown</string>
+    <string name="photo_saved">Photo saved.</string>
+    <string name="delete_failed">Could not delete this image.</string>
+</resources>

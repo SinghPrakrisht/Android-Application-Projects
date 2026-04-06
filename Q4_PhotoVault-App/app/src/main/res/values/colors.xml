@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_dark">#1C1C1E</color>
+    <color name="surface_dark">#2C2C2E</color>
+    <color name="surface_row">#3A3A3C</color>
+    <color name="primary_teal">#2D5D5D</color>
+    <color name="primary_teal_dark">#244949</color>
+    <color name="destructive_red">#B04A4A</color>
+    <color name="text_primary_light">#F2F2F7</color>
+    <color name="text_secondary_light">#AEAEB2</color>
+    <color name="text_on_card">#1C1C1E</color>
+    <color name="text_on_card_secondary">#636366</color>
+    <color name="card_light">#F2F2F7</color>
+    <color name="button_secondary_bg">#E5E5EA</color>
+    <color name="search_bar_bg">#3A3A3C</color>
+    <color name="badge_teal_bg">#2D5D5D</color>
+    <color name="dialog_button_neutral">#636366</color>
+</resources>
