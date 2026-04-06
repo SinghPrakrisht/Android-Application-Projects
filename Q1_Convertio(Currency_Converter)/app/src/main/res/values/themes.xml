@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Convertio" parent="Theme.Material3.Light.NoActionBar">
+    </style>
+
+    <style name="Theme.Convertio" parent="Base.Theme.Convertio" />
+
+</resources>
